@@ -1,11 +1,16 @@
 #include <iostream>
-#include <algorithm>
+
+#include <iostream>
+#include <string>
+
 using namespace std;
 
-int main(){
-git remote add origin <repository_url>
+int main()
+{
 
+       string name ;
+       cin >> name ;
+       cout << "Hello, " <<name ;
 
 }
-
 
