@@ -1,0 +1,5 @@
+# Code::Blocks build files
+bin/
+obj/
+*.depend
+*.layout
