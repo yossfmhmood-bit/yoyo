@@ -8,9 +8,17 @@ using namespace std;
 int main()
 {
 
-       string name ;
-       cin >> name ;
-       cout << "Hello, " <<name ;
+
+     long long  a,b,c,d ;
+
+     cin>>a>>b>>c>>d;
+     long long ans =(a*b) - (c*d);
+
+     cout <<"Difference = " << ans ;
+
+
+
+
+
 
 }
-
